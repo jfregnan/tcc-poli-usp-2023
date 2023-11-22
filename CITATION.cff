@@ -1,0 +1,10 @@
+cff-version: 1.0.0
+authors:
+- family-names: "Fregnan"
+  given-names: "João Victor"
+- family-names: "Conde"
+  given-names: "Sillas"
+title: "Dense Passage Retrieval e Chatbot para Open-domain Question Answering em Português"
+version: 1.0.0
+date-released: 2023-11-23
+url: "https://github.com/jfregnan/tcc-poli-usp-2023"
