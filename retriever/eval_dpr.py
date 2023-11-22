@@ -1,5 +1,5 @@
 import json
-from haystack.nodes import BM25Retriever
+# from haystack.nodes import BM25Retriever
 from haystack.document_stores import ElasticsearchDocumentStore
 from haystack.nodes import DensePassageRetriever
 from tqdm import tqdm
