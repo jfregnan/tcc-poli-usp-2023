@@ -1,0 +1,2864 @@
+{
+    "data": [
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Qual o telefone do Departamento de Engenharia Mecatrônica e de Sistemas Mecânicos?",
+                            "id": 1172237,
+                            "answers": [
+                                {
+                                    "answer_id": 1076926,
+                                    "document_id": 1725870,
+                                    "question_id": 1172237,
+                                    "text": "Telefone: +55 (11) 3091-5337 Fax: +55 (11) 3091-5461",
+                                    "answer_start": 84,
+                                    "answer_end": 136,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Prof. Mello Moraes, 2231 – Cidade Universitária 05508-030 – São Paulo – SP – Brasil Telefone: +55 (11) 3091-5337 Fax: +55 (11) 3091-5461 Contato Secretaria do Departamento de Engenharia Mecatrônica e de Sistemas Mecânicos  Agenda Defesa - Eventos - Agenda Defesa Calendárior de Eventos D dom S seg T ter Q qua Q qui S sex S sáb 0 evento, 1 evento, Dissertação: “Análise da flexibilidade operativa do sistema elétrico brasileiro no contexto da integração de fontes renováveis prevista no plano decenal”. 31/07/2023. 13h30min.",
+                    "document_id": 1725870
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Como pesquisar uma disciplina no JúpiterWeb? ",
+                            "id": 1172253,
+                            "answers": [
+                                {
+                                    "answer_id": 1099062,
+                                    "document_id": 1725909,
+                                    "question_id": 1172253,
+                                    "text": "No Júpiter Web, clicar em “Disciplina” – “Busca por Disciplinas” – clicar em “Unidades de Ensino”",
+                                    "answer_start": 234,
+                                    "answer_end": 331,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "A Pró-Reitoria de Graduação (PRG) e a Pró-Reitoria de Pós-Graduação (PRPG) da Universidade de São Paulo disponibilizam através dos Sistemas JúpiterWeb e Janus, respectivamente, acesso a todas as disciplinas oferecidas em seus cursos. No Júpiter Web, clicar em “Disciplina” – “Busca por Disciplinas” – clicar em “Unidades de Ensino”. Você poderá pesquisar por “Cursos e habilitações oferecidos pela Unidade”; “Disciplinas em ordem alfabética” ou “Disciplinas por Departamento” – clicando na disciplina, você acessará a Grade Curricular.",
+                    "document_id": 1725909
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Qual o tempo estimado de resposta do questionário do Sistema Solus?",
+                            "id": 1174841,
+                            "answers": [
+                                {
+                                    "answer_id": 1081780,
+                                    "document_id": 1725746,
+                                    "question_id": 1174841,
+                                    "text": "5 a 7 minutos",
+                                    "answer_start": 231,
+                                    "answer_end": 244,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "As informações concedidas serão de uso interno, à exceção das que já são de conhecimento público, e que podem ser eventualmente usadas para divulgação da iniciativa e das empresas. O tempo estimado de resposta do questionário é de 5 a 7 minutos. Para responder, acesse o link aqui. Até o fechamento desta matéria (9/4/19), estão cadastradas 60 empresas-filhas da Poli no Sistema Solus.",
+                    "document_id": 1725746
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Como vem sendo marcada, há 20 anos, a Feira USP e as Profissões?",
+                            "id": 1174989,
+                            "answers": [
+                                {
+                                    "answer_id": 1081929,
+                                    "document_id": 1725756,
+                                    "question_id": 1174989,
+                                    "text": "por uma intensa participação de jovens em busca de seu futuro profissional",
+                                    "answer_start": 186,
+                                    "answer_end": 260,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "A escolha da profissão Um dos maiores e mais tradicionais eventos da USP na área de extensão e relacionamento com a sociedade, a Feira USP e as Profissões vem sendo marcada, há 20 anos, por uma intensa participação de jovens em busca de seu futuro profissional. Em 2022 o evento recebeu 66.408 visitantes, vindos de 27 Estados brasileiros e de outros 16 países. Deste público, 88,43% eram estudantes do ensino médio e 4,96% estudavam em cursinhos pré-vestibulares, sendo que 49% eram oriundos de escolas públicas e 51% de escolas particulares.",
+                    "document_id": 1725756
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O projeto Carbono 21 é fruto de qual parceria?",
+                            "id": 1175704,
+                            "answers": [
+                                {
+                                    "answer_id": 1083520,
+                                    "document_id": 1725766,
+                                    "question_id": 1175704,
+                                    "text": "da parceria entre a Universidade da São Paulo e a Universidade Estadual de Santa Catarina",
+                                    "answer_start": 122,
+                                    "answer_end": 211,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Carbono 21: parceria entre a USP e a UDESC, vence competição Selo de Inovação da Sociedade Brasileira de Computação Fruto da parceria entre a Universidade da São Paulo e a Universidade Estadual de Santa Catarina – Joinville (UDESC), o projeto Carbono 21 venceu recentemente a competição Selo de Inovação da Sociedade Brasileira de Computação, promovido no 43° Congresso da Sociedade Brasileira de Computação (CSBC), realizado de 6 a 11 de agosto.",
+                    "document_id": 1725766
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O Encarregado pelo Tratamento de Dados Pessoais no âmbito da Universidade de São Paulo foi indicado por qual meio?",
+                            "id": 1175715,
+                            "answers": [
+                                {
+                                    "answer_id": 1083531,
+                                    "document_id": 1725771,
+                                    "question_id": 1175715,
+                                    "text": "por meio da Portaria GR nº 488 de 22 de setembro de 2021",
+                                    "answer_start": 243,
+                                    "answer_end": 299,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Em consonância com o prescrito por este dispositivo legal, e nos termos do artigo 8º do Decreto Estadual nº 65.347, de 09 de dezembro de 2020, o Encarregado pelo Tratamento de Dados Pessoais no âmbito da Universidade de São Paulo foi indicado por meio da Portaria GR nº 488 de 22 de setembro de 2021.",
+                    "document_id": 1725771
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Como devem ser analisadas as questões cruciais de engenharia?",
+                            "id": 1175726,
+                            "answers": [
+                                {
+                                    "answer_id": 1083542,
+                                    "document_id": 1725776,
+                                    "question_id": 1175726,
+                                    "text": "devem ser analisadas por diferentes prismas, trazendo a complexidade das diferenças para os times de projeto",
+                                    "answer_start": 251,
+                                    "answer_end": 359,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Afinal, o que sempre me motivou na engenharia é a capacidade de transformar conhecimento em soluções que contribuam para o desenvolvimento humano. Engenharia é conhecimento convertido em ação e solução de problemas. As questões cruciais de engenharia devem ser analisadas por diferentes prismas, trazendo a complexidade das diferenças para os times de projeto. Assim, o olhar da mulher é fundamental para compor o mosaico de soluções de engenharia. No nosso grupo de pesquisa em Inovação e Sustentabilidade, que está entre os de maior impacto, valorizamos a contribuição da mulher e a diversidade.",
+                    "document_id": 1725776
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Como a AUSPIN promove o empreendedorismo?",
+                            "id": 1170558,
+                            "answers": [
+                                {
+                                    "answer_id": 1074900,
+                                    "document_id": 1725730,
+                                    "question_id": 1170558,
+                                    "text": "Por meio de incubadoras de empresas, de parques tecnológicos e de treinamentos específicos",
+                                    "answer_start": 299,
+                                    "answer_end": 389,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "O que a AUSPIN oferece?",
+                            "id": 1170559,
+                            "answers": [
+                                {
+                                    "answer_id": 1074901,
+                                    "document_id": 1725730,
+                                    "question_id": 1170559,
+                                    "text": "suporte técnico, gerencial e formação complementar ao empreendedor",
+                                    "answer_start": 430,
+                                    "answer_end": 496,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Oferece apoio aos docentes, alunos e funcionários na elaboração de projetos em parceria para melhor gerenciar as relações com os setores empresariais, bem como, comunicar para a sociedade em geral o impacto e os benefícios das inovações guiadas pela ciência desenvolvida pelos pesquisadores da USP. Por meio de incubadoras de empresas, de parques tecnológicos e de treinamentos específicos, promove o empreendedorismo, oferecendo suporte técnico, gerencial e formação complementar ao empreendedor. Trabalha também na transferência de tecnologias, preocupando-se em colocá-las à disposição da sociedade. A AUSPIN possui uma plataforma que reúne diversas informações sobre empreendedorismo e inovação na USP.",
+                    "document_id": 1725730
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que é o Instituto Pasteur-USP?",
+                            "id": 1172771,
+                            "answers": [
+                                {
+                                    "answer_id": 1077790,
+                                    "document_id": 1725735,
+                                    "question_id": 1172771,
+                                    "text": "Centro de colaboração dedicado a pesquisas relacionadas à biodiversidade e à descoberta de novos patógenos, riscos potenciais à saúde pública brasileira e mundial",
+                                    "answer_start": 22,
+                                    "answer_end": 184,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Instituto Pasteur-USP Centro de colaboração dedicado a pesquisas relacionadas à biodiversidade e à descoberta de novos patógenos, riscos potenciais à saúde pública brasileira e mundial. O Inova USP está localizado na Cidade Universitária, em São Paulo. Tarde do segundo dia da Semana de Recepção contou com apresentações de disciplinas e rodas de conversas Na tarde de terça-feira, dia 15 de março de 2022, a Escola Politécnica (Poli) da USP deu continuidade às atividades do segundo dia da Semana de Recepção aos Ingressantes. A programação contou com apresentações de disciplinas, escolha dos Representantes de Classe e Rodas de Conversa.",
+                    "document_id": 1725735
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que é  o Sistema Solus?",
+                            "id": 1172804,
+                            "answers": [
+                                {
+                                    "answer_id": 1077829,
+                                    "document_id": 1725744,
+                                    "question_id": 1172804,
+                                    "text": "um questionário disponibilizado pela Universidade, em que são solicitadas informações pessoais do empreendedor e da empresa",
+                                    "answer_start": 402,
+                                    "answer_end": 525,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "O que são as empresas-filhas da instituição?",
+                            "id": 1172802,
+                            "answers": [
+                                {
+                                    "answer_id": 1077827,
+                                    "document_id": 1725744,
+                                    "question_id": 1172802,
+                                    "text": "empresas criadas por alunos, ex-alunos, funcionários e docentes",
+                                    "answer_start": 173,
+                                    "answer_end": 236,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "A fim de preparar a Escola para fomentar a criação de lideranças em inovação, a diretoria da Escola Politécnica quer conhecer as empresas-filhas da instituição, ou seja, as empresas criadas por alunos, ex-alunos, funcionários e docentes. A Poli optou por realizar o seu mapeamento por meio de um sistema criado pela Agência USP de Inovação para conhecer os perfis dos empreendedores. O Sistema Solus é um questionário disponibilizado pela Universidade, em que são solicitadas informações pessoais do empreendedor e da empresa.",
+                    "document_id": 1725744
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Sobre o que dispõe a Lei Geral de Proteção de Dados Pessoais?",
+                            "id": 1175709,
+                            "answers": [
+                                {
+                                    "answer_id": 1083525,
+                                    "document_id": 1725769,
+                                    "question_id": 1175709,
+                                    "text": "sobre o tratamento de dados pessoais",
+                                    "answer_start": 90,
+                                    "answer_end": 126,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Qual é o objetivo da Lei Geral de Proteção de Dados Pessoais?",
+                            "id": 1175710,
+                            "answers": [
+                                {
+                                    "answer_id": 1083526,
+                                    "document_id": 1725769,
+                                    "question_id": 1175710,
+                                    "text": "proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural",
+                                    "answer_start": 145,
+                                    "answer_end": 269,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "A Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709, de 14 de agosto de 2018) dispõe sobre o tratamento de dados pessoais com o objetivo de proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural.",
+                    "document_id": 1725769
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Desde quando a Escola Politécnica tem realizado atividades no dia internacional da mulher?",
+                            "id": 1175722,
+                            "answers": [
+                                {
+                                    "answer_id": 1083538,
+                                    "document_id": 1725775,
+                                    "question_id": 1175722,
+                                    "text": "Desde 2018",
+                                    "answer_start": 22,
+                                    "answer_end": 32,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Quando se celebra o Dia Internacional da Mulher?",
+                            "id": 1175723,
+                            "answers": [
+                                {
+                                    "answer_id": 1083539,
+                                    "document_id": 1725775,
+                                    "question_id": 1175723,
+                                    "text": "no dia 8 de março",
+                                    "answer_start": 87,
+                                    "answer_end": 104,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": " 8 de março de 2022 – Desde 2018, a Escola Politécnica da USP tem realizado atividades no dia 8 de março, em que se celebra o Dia Internacional da Mulher. Neste ano, a diretoria da Poli e organizações de estudantes e engenheiras formadas optaram por concentrar os seus esforços em receber as calouras, que ingressam na Escola em março de 2022, em um contexto de retomada das atividades presenciais da Universidade.",
+                    "document_id": 1725775
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que o Banco de Vagas da Associação dos Engenheiros Politécnicos (AEP) permite?",
+                            "id": 1187833,
+                            "answers": [
+                                {
+                                    "answer_id": 1100111,
+                                    "document_id": 1725827,
+                                    "question_id": 1187833,
+                                    "text": "permite tanto que profissionais cadastrem seus currículos, quanto que instituições publiquem oportunidades de trabalho",
+                                    "answer_start": 540,
+                                    "answer_end": 658,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Ao submeter este formulário, você autoriza a publicação do seu material. O vídeo do projeto será divulgado no canal da Poli no Youtube: https://www.youtube.com/escolapolitecnica  Associação de ex-alunos da Poli disponibiliza banco de vagas para os politécnicos A Associação dos Engenheiros Politécnicos (AEP) oferece, em seu site, uma plataforma para integrar os interesses de empresas e dos engenheiros formados na Escola Politécnica da USP. Introduzido junto com a remodelação do site, concluída ao final do ano passado, o Banco de Vagas permite tanto que profissionais cadastrem seus currículos, quanto que instituições publiquem oportunidades de trabalho.",
+                    "document_id": 1725827
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Qual a capacidade do incinerador da empresa Essencis?",
+                            "id": 1172853,
+                            "answers": [
+                                {
+                                    "answer_id": 1077879,
+                                    "document_id": 1725931,
+                                    "question_id": 1172853,
+                                    "text": "O equipamento tem a capacidade de incinerar 800 kg de resíduos por dia, incluindo sólidos, pastosos e líquidos.",
+                                    "answer_start": 216,
+                                    "answer_end": 327,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Em novembro de 2018, o Poli Recicla realizou uma visita técnica ao incinerador da empresa Essencis, com a turma de Engenharia Ambiental, organizada pela Professora Wanda Günther da Faculdade de Saúde Pública da USP. O equipamento tem a capacidade de incinerar 800 kg de resíduos por dia, incluindo sólidos, pastosos e líquidos. Este método é o mais eficiente para os resíduos perigosos, como os químicos, pois a matéria é desintegrada de forma controlada sem produzir grandes danos ao meio ambiente.",
+                    "document_id": 1725931
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que é a Aucani?",
+                            "id": 1173845,
+                            "answers": [
+                                {
+                                    "answer_id": 1079571,
+                                    "document_id": 1725941,
+                                    "question_id": 1173845,
+                                    "text": " A Agência USP de Cooperação Acadêmica Nacional e Internacional ",
+                                    "answer_start": 0,
+                                    "answer_end": 64,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Qual o objetivo da Aucani?",
+                            "id": 1173846,
+                            "answers": [
+                                {
+                                    "answer_id": 1099081,
+                                    "document_id": 1725941,
+                                    "question_id": 1173846,
+                                    "text": "Seu objetivo é estabelecer estratégias de relacionamento entre a USP, instituições universitárias, órgãos públicos e a sociedade",
+                                    "answer_start": 251,
+                                    "answer_end": 379,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": " A Agência USP de Cooperação Acadêmica Nacional e Internacional (Aucani) é o órgão responsável pela oficialização dessas parcerias no âmbito geral da universidade e, cada Unidade, por meio de seu escritório internacional, responsável no âmbito local. Seu objetivo é estabelecer estratégias de relacionamento entre a USP, instituições universitárias, órgãos públicos e a sociedade, para suporte à cooperação acadêmica em matéria de ensino, pesquisa, cultura e extensão universitária, nos âmbitos nacional e internacional.",
+                    "document_id": 1725941
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Qual a duração do Aproveitamento de Estudos?",
+                            "id": 1173871,
+                            "answers": [
+                                {
+                                    "answer_id": 1099090,
+                                    "document_id": 1725946,
+                                    "question_id": 1173871,
+                                    "text": "costuma variar entre quatro e doze meses,",
+                                    "answer_start": 408,
+                                    "answer_end": 449,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "As instituições de ensinoconveniadas são de excelência, a maioria na Europa, e os processos seletivos costumam acontecer entre agosto e setembro. A internacionalização por aproveitamento de estudos oferece mais opções de destinos para os estudantes e as aulas cursadas fora são consideradas no histórico escolar, porém, ao final do período, o estudante recebe somente o diploma da Poli. . O tempo de duração costuma variar entre quatro e doze meses, e a liberdade do curso é maior já que não hádisciplinas obrigatórias para o diploma.",
+                    "document_id": 1725946
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que é a Robocon?",
+                            "id": 1173907,
+                            "answers": [
+                                {
+                                    "answer_id": 1099111,
+                                    "document_id": 1725956,
+                                    "question_id": 1173907,
+                                    "text": "Competição internacional de construção de robôs",
+                                    "answer_start": 460,
+                                    "answer_end": 507,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Os projetos são desenvolvidos em diversas categorias como “Seguidores de linha”, “Sumô” e “Robôs de combate até 55 quilos”. O objetivo dessa competição é construir o protótipo de um veículo que apresente o menor consumo possível de combustível. Estudantes de várias escolas, incluindo a Poli-USP, participam nas categorias “Veículo a gasolina” e “Veículo elétrico”. Essa atividade extracurricular incentiva o desenvolvimento de projetos complexos de inovação. Competição internacional de construção de robôs, a Robocon é uma atividade anual que envolve estudantes de graduação em Engenharia de diversos países.",
+                    "document_id": 1725956
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Quem é a CEO e fundadora da MasterTech?",
+                            "id": 1173923,
+                            "answers": [
+                                {
+                                    "answer_id": 1079646,
+                                    "document_id": 1725962,
+                                    "question_id": 1173923,
+                                    "text": "Camila Achutti",
+                                    "answer_start": 63,
+                                    "answer_end": 77,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Das 18h15 às 19h, a empresária, CEO e fundadora da MasterTech, Camila Achutti, fará uma palestra a convite do Clube Minerva. Já no dia 24, a partir das 18h30, a equipe responsável pelo projeto Inspire contará como foi a criação e desenvolvimento do ventilador pulmonar, seus desafios e conquistas, e haverá espaço para que os coordenadores respondam às perguntas do público.",
+                    "document_id": 1725962
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Em que o Engenheiro de petróleo formado na Poli é capacitado?",
+                            "id": 1174847,
+                            "answers": [
+                                {
+                                    "answer_id": 1081786,
+                                    "document_id": 1725972,
+                                    "question_id": 1174847,
+                                    "text": "é capacitado para atuar em diversos segmentos da cadeia produtiva do petróleo, desde a pesquisa de novas jazidas até a produção de petróleo e gás natural",
+                                    "answer_start": 43,
+                                    "answer_end": 196,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "O engenheiro de petróleo formado pela Poli é capacitado para atuar em diversos segmentos da cadeia produtiva do petróleo, desde a pesquisa de novas jazidas até a produção de petróleo e gás natural. Ele é habilitado também para fazer análise econômica e avaliação de reservatórios e para auxiliar em projetos de construção de plataformas e poços de petróleo. O campo de trabalho para esse profissional abrange: empresas de extração, de engenharia, consultoria, institutos de pesquisa e órgãos do governo.",
+                    "document_id": 1725972
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que é o BID?",
+                            "id": 1174940,
+                            "answers": [
+                                {
+                                    "answer_id": 1081879,
+                                    "document_id": 1725988,
+                                    "question_id": 1174940,
+                                    "text": "Banco Interamericano de Desenvolvimento",
+                                    "answer_start": 49,
+                                    "answer_end": 88,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Dirigiu o Fundusp por ocasião do investimento do Banco Interamericano de Desenvolvimento (BID) em instituições de ensino superior, como a Universidade de São Paulo que, em particular, utilizou esse fundo para a “informatização interna do controle de obras”. Enquanto chefe do Departamento de Engenharia de Construção Civil, procurou oferecer maior respaldo aos laboratórios e dinamizou a estrutura da pós-graduação ao condicionar um “pouco mais de conhecimento científico”. (NAKATA, Vera Lucia M., TORRE, Silvia Regina S. Dela e LIMA, Igor Renato M. de. Entrevista com o professor Francisco Romeu Landi, 2003).",
+                    "document_id": 1725988
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que é o Instituto INPE?",
+                            "id": 1188760,
+                            "answers": [
+                                {
+                                    "answer_id": 1101063,
+                                    "document_id": 1726026,
+                                    "question_id": 1188760,
+                                    "text": "Instituto Nacional de Pesquisas Espaciais (INPE",
+                                    "answer_start": 424,
+                                    "answer_end": 471,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Esse costume multiplicou-se também para as próximas turmas, até que apareceram procedimentos do tipo termo-fax ou xerox” (NAKATA, Vera Lucia M., TORRE, Silvia Regina S. Della e LIMA, Igor Renato M. de. Entrevista com o professor Antonio Marcos de Aguirra Massola, 2003). Em 1967, terminou o curso como Engenheiro Eletricista – modalidade eletrônica, passando a trabalhar na Comissão Nacional de Atividades Espaciais – atual Instituto Nacional de Pesquisas Espaciais (INPE) – em São José dos Campos, onde foi responsável pela coleta de dados do satélite meteorológico ATS-3.",
+                    "document_id": 1726026
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que é a engenharia?",
+                            "id": 1176010,
+                            "answers": [
+                                {
+                                    "answer_id": 1086076,
+                                    "document_id": 1725997,
+                                    "question_id": 1176010,
+                                    "text": "é em si um “braço executivo do sistema produtivo” ",
+                                    "answer_start": 159,
+                                    "answer_end": 209,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Portanto, mesmo que em alguns ramos de elétrica, como aqueles dedicados a chips e softwares, “o ser humano já não apareça de forma tão presente”, a engenharia é em si um “braço executivo do sistema produtivo” e quando utilizada sua técnica inadequadamente, pode vir a prejudicar o meio ambiente – o que cai em relação direta com a sociedade que o cerca.",
+                    "document_id": 1725997
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que é a Fundação FDTE?",
+                            "id": 1188767,
+                            "answers": [
+                                {
+                                    "answer_id": 1101070,
+                                    "document_id": 1726028,
+                                    "question_id": 1188767,
+                                    "text": "FDTE – Fundação para o Desenvolvimento Tecnológico da Engenharia",
+                                    "answer_start": 471,
+                                    "answer_end": 535,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "O próximo passo de seu caminho profissional foi o Departamento de Eletricidade da Escola Politécnica de São Paulo. Com vistas ao mestrado, na vigência da diretoria do professor Oswaldo Fadigas Fontes Torres, tomou parte no Laboratório de Sistemas Digitais (LSD), então sob organização do professor Antonio Helio Guerra Vieira. Participou da elaboração e implantação de inúmeros projetos altamente tecnológicos e de pesquisa e teve participação marcante na instituição da FDTE – Fundação para o Desenvolvimento Tecnológico da Engenharia, em 1972.",
+                    "document_id": 1726028
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que é Programa PURA?\n",
+                            "id": 1188774,
+                            "answers": [
+                                {
+                                    "answer_id": 1101077,
+                                    "document_id": 1726033,
+                                    "question_id": 1188774,
+                                    "text": "PURA – Programa de Uso Racional de Água",
+                                    "answer_start": 13,
+                                    "answer_end": 52,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "O que é o Programa PURE?",
+                            "id": 1188775,
+                            "answers": [
+                                {
+                                    "answer_id": 1101078,
+                                    "document_id": 1726033,
+                                    "question_id": 1188775,
+                                    "text": " PURE – Programa de Uso Racional de Energia",
+                                    "answer_start": 54,
+                                    "answer_end": 97,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Os Programas PURA – Programa de Uso Racional de Água e PURE – Programa de Uso Racional de Energia também refletem a preocupação das equipes que os desenvolvem e os tornam realidade, pelos cuidados na conservação do meio ambiente e do erário público. O planejamento, implantação e operacionalização do “Campus” universitário de Cubatão foi outro marcante desafio que abraçou. O novo sistema de ensino ali implantado foi o desafiador e inédito Curso Cooperativo. Esta modalidade de ensino, desenvolve-se quer na universidade, quer na empresa, alternando-se a cada quatro meses.",
+                    "document_id": 1726033
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Quem foi o departamento responsável pela implantação do primeiro curso de engenharia mecatrônica no Brasil?",
+                            "id": 1188731,
+                            "answers": [
+                                {
+                                    "answer_id": 1101033,
+                                    "document_id": 1726007,
+                                    "question_id": 1188731,
+                                    "text": "O Departamento de Engenharia Mecatrônica e de Sistemas Mecânicos (PMR)",
+                                    "answer_start": 0,
+                                    "answer_end": 70,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "O Departamento de Engenharia Mecatrônica e de Sistemas Mecânicos (PMR) foi responsável pela implantação, em 1988, do primeiro curso de graduação em Mecatrônica do Brasil. Ao integrar as áreas de mecânica, eletrônica, computação e controle, a Mecatrônica tem possibilitado a simplificação de dispositivos e a obtenção de produtos com elevado grau de flexibilidade e autonomia. Essa integração resulta em redução de custos, aumento da qualidade e da produtividade, e desenvolvimento mais ágil de novos produtos e serviços para as empresas brasileiras.",
+                    "document_id": 1726007
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que é o Programa PEC-G?",
+                            "id": 1188808,
+                            "answers": [
+                                {
+                                    "answer_id": 1101111,
+                                    "document_id": 1726047,
+                                    "question_id": 1188808,
+                                    "text": "Programa de Estudantes Convênio de Graduação (PEC-G)",
+                                    "answer_start": 12,
+                                    "answer_end": 64,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Também há o Programa de Estudantes Convênio de Graduação (PEC-G) que oferece oportunidade de formação superior a estudantes de países em desenvolvimento, com os quais o Brasil mantém acordo educacional, cultural ou científico-tecnológico. Os cursos de graduação da USP são oferecidos em oito cidades: São Paulo, Bauru, São Carlos, Lorena, Ribeirão Preto, Piracicaba, Pirassununga e Santos. Há cursos, como o de Administração, que são oferecidos em mais de um campus, então o estudante deve acessar o site de cada unidade e conferir qual o projeto pedagógico que mais se alinha às suas expectativas. Acesse o site Seu Curso USP!",
+                    "document_id": 1726047
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Quando foi fundado o CoralUSP?",
+                            "id": 1188910,
+                            "answers": [
+                                {
+                                    "answer_id": 1101215,
+                                    "document_id": 1726065,
+                                    "question_id": 1188910,
+                                    "text": "em 1967",
+                                    "answer_start": 156,
+                                    "answer_end": 163,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "O que o CoralUSP oferece aos seus integrantes?",
+                            "id": 1188913,
+                            "answers": [
+                                {
+                                    "answer_id": 1101218,
+                                    "document_id": 1726065,
+                                    "question_id": 1188913,
+                                    "text": "oferece aos seus integrantes orientação em técnica vocal, percepção musical, harmonia, contraponto e regência coral, além de história da música",
+                                    "answer_start": 203,
+                                    "answer_end": 346,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Realiza mostras de filmes, palestras e debates visando a complementação da atividade profissional dos estudantes. Tel. : (11) 3091-3540 - CoralUSP: fundado em 1967, além de apresentações para o público, oferece aos seus integrantes orientação em técnica vocal, percepção musical, harmonia, contraponto e regência coral, além de história da música (popular e erudita). As atividades de ensaios e aulas acontecem na Cidade Universitária, no Butantã, além da Faculdade de Direito/USP, Estação Ciência/USP e Casa da Dona Yayá/USP. Para os interessados, também disponibiliza consulta ao seu acervo de composições e arranjos corais. Tel.",
+                    "document_id": 1726065
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que é o TUSP?",
+                            "id": 1188936,
+                            "answers": [
+                                {
+                                    "answer_id": 1101241,
+                                    "document_id": 1726069,
+                                    "question_id": 1188936,
+                                    "text": "Teatro da USP (TUSP)",
+                                    "answer_start": 14,
+                                    "answer_end": 34,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Quando foi fundado o Teatro da USP?",
+                            "id": 1188937,
+                            "answers": [
+                                {
+                                    "answer_id": 1101242,
+                                    "document_id": 1726069,
+                                    "question_id": 1188937,
+                                    "text": "em 1955",
+                                    "answer_start": 44,
+                                    "answer_end": 51,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": ": 3091-3000 - Teatro da USP (TUSP): Fundado em 1955, tem por objetivo difundir e divulgar as artes cênicas e estimular a criação e o desenvolvimento de grupos teatrais universitários em todos os campi da USP. Realiza, com projetos próprios e em parceria com as unidades afins, encontros, palestras, seminários, mostras, festivais e circuitos universitários. Tel. : (11) 3255-7182 – ramais 41 e 42",
+                    "document_id": 1726069
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que é o CINUSP?",
+                            "id": 1188900,
+                            "answers": [
+                                {
+                                    "answer_id": 1101205,
+                                    "document_id": 1726064,
+                                    "question_id": 1188900,
+                                    "text": "Cinema da USP (CINUSP “Paulo Emílio”)",
+                                    "answer_start": 391,
+                                    "answer_end": 428,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Quando foi fundado o CINUSP?",
+                            "id": 1188901,
+                            "answers": [
+                                {
+                                    "answer_id": 1101206,
+                                    "document_id": 1726064,
+                                    "question_id": 1188901,
+                                    "text": "em 1993",
+                                    "answer_start": 438,
+                                    "answer_end": 445,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": ": (11) 3091-5696 - Centro de Práticas Esportivas da Universidade de São Paulo: é um complexo poliesportivo que tem a finalidade de planejar, coordenar e implementar as ações necessárias à prática de atividades físicas, esportivas e recreativas no âmbito da Universidade. Oferece cursos de alongamento, yoga, condicionamento físico, canoagem e basquete, entre outros. Tel. : (11) 3091-3362 - Cinema da USP (CINUSP “Paulo Emílio”): fundado em 1993, tem como objetivo disseminar a cultura cinematográfica e veicular conhecimento por meio de várias atividades de extensão.",
+                    "document_id": 1726064
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que o programa A USP te espera! oferece?",
+                            "id": 1188835,
+                            "answers": [
+                                {
+                                    "answer_id": 1101138,
+                                    "document_id": 1726051,
+                                    "question_id": 1188835,
+                                    "text": " oferece aos ingressantes videoaulas de disciplinas que compõem a Base Nacional Comum Curricular do Ensino Médio (BNCC).",
+                                    "answer_start": 27,
+                                    "answer_end": 147,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "O que é o BNCC ?",
+                            "id": 1188838,
+                            "answers": [
+                                {
+                                    "answer_id": 1101141,
+                                    "document_id": 1726051,
+                                    "question_id": 1188838,
+                                    "text": "Base Nacional Comum Curricular do Ensino Médio (BNCC)",
+                                    "answer_start": 93,
+                                    "answer_end": 146,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Por quem são ministradas as videoaulas do programa \"A USP te espera!\"?",
+                            "id": 1188844,
+                            "answers": [
+                                {
+                                    "answer_id": 1101148,
+                                    "document_id": 1726051,
+                                    "question_id": 1188844,
+                                    "text": "são ministradas por docentes da USP",
+                                    "answer_start": 377,
+                                    "answer_end": 412,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "O programa A USP te espera! oferece aos ingressantes videoaulas de disciplinas que compõem a Base Nacional Comum Curricular do Ensino Médio (BNCC). A ideia é que o estudante já comece a se integrar à graduação retomando temas do ensino médio que são importantes para o curso escolhido. As aulas de português, matemática, física, química, biologia, história, geografia e inglês são ministradas por docentes da USP. O Programa de Apoio à Permanência e Formação Estudantil (PAPFE) organiza ações em todos os campi para ajudar alunos com dificuldades socioeconômicas a se manterem na Universidade.",
+                    "document_id": 1726051
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que se trata a disciplina “Estágio Supervisionado em Engenharia Mecatrônica”\" da Escola Politécnica?",
+                            "id": 1188873,
+                            "answers": [
+                                {
+                                    "answer_id": 1101177,
+                                    "document_id": 1726058,
+                                    "question_id": 1188873,
+                                    "text": "trata de critérios para a realização do estágio, carga horária máxima, etc",
+                                    "answer_start": 466,
+                                    "answer_end": 540,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Legalmente, todo estágio deve estar dentro de um convênio devidamente registrado entre a USP e a empresa onde o estágio do aluno é realizado. Para esclarecimentos sobre a documentação exigida, a Escola Politécnica da USP conta com o Setor de Estágios (vide site de “estágios” da Poli-USP). No MOODLE-USP está disponibilizada na disciplina “Estágio Supervisionado em Engenharia Mecatrônica” a regulamentação sobre o estágio de alunos da Escola Politécnica da USP que trata de critérios para a realização do estágio, carga horária máxima, etc.",
+                    "document_id": 1726058
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que é a Associação AAAP da Poli?",
+                            "id": 1188880,
+                            "answers": [
+                                {
+                                    "answer_id": 1101189,
+                                    "document_id": 1726063,
+                                    "question_id": 1188880,
+                                    "text": "Associação Atlética Acadêmica Politécnica (AAAP): é o órgão oficial de representação esportiva da Poli",
+                                    "answer_start": 49,
+                                    "answer_end": 151,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Confira o que você pode usufruir nessas áreas: - Associação Atlética Acadêmica Politécnica (AAAP): é o órgão oficial de representação esportiva da Poli. Disputa diversos campeonatos externos e organiza campeonatos internos com a finalidade de integrar os alunos. Possui equipes de atletismo, basquete, beisebol, futebol de campo, futsal, handebol, jiu-jitsu, judô, karatê, natação, pólo aquático, rugby, softbol, tae kwon do, tênis, tênis de mesa, voleibol e xadrez, além de contar com a Rateria, uma das maiores baterias universitárias do País Tel.",
+                    "document_id": 1726063
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que é  CCB da Escola Politécnica?",
+                            "id": 1188933,
+                            "answers": [
+                                {
+                                    "answer_id": 1101238,
+                                    "document_id": 1726068,
+                                    "question_id": 1188933,
+                                    "text": "Coordenação do Ciclo Básico (CCB)",
+                                    "answer_start": 31,
+                                    "answer_end": 64,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": " Coordenação do Ciclo Básico A Coordenação do Ciclo Básico (CCB) é responsável pela qualidade dos cursos oferecidos nos dois primeiros anos pela Escola Politécnica. Os membros da CCB são escolhidos entre professores representantes das grandes áreas, da Diretoria da Escola Politécnica, funcionários e alunos. Composição: Profª.",
+                    "document_id": 1726068
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que é orquestra OCAM?",
+                            "id": 1188918,
+                            "answers": [
+                                {
+                                    "answer_id": 1101223,
+                                    "document_id": 1726067,
+                                    "question_id": 1188918,
+                                    "text": "Orquestra de Câmara da USP (OCAM)",
+                                    "answer_start": 31,
+                                    "answer_end": 64,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Quando foi fundada orquestra OCAM?",
+                            "id": 1188919,
+                            "answers": [
+                                {
+                                    "answer_id": 1101224,
+                                    "document_id": 1726067,
+                                    "question_id": 1188919,
+                                    "text": "em 1995",
+                                    "answer_start": 74,
+                                    "answer_end": 81,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Qual o objetivo da orquestra OCAM?",
+                            "id": 1188921,
+                            "answers": [
+                                {
+                                    "answer_id": 1101226,
+                                    "document_id": 1726067,
+                                    "question_id": 1188921,
+                                    "text": "dar suporte às atividades pedagógicas desenvolvidas no Departamento de Música, propiciando aos alunos de instrumento a prática necessária rumo a uma profissionalização competente",
+                                    "answer_start": 101,
+                                    "answer_end": 279,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "O que é a OSUSP?",
+                            "id": 1188922,
+                            "answers": [
+                                {
+                                    "answer_id": 1101227,
+                                    "document_id": 1726067,
+                                    "question_id": 1188922,
+                                    "text": "Orquestra Sinfônica da USP (OSUSP)",
+                                    "answer_start": 379,
+                                    "answer_end": 413,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Quando foi fundada a OSUSP?",
+                            "id": 1188924,
+                            "answers": [
+                                {
+                                    "answer_id": 1101229,
+                                    "document_id": 1726067,
+                                    "question_id": 1188924,
+                                    "text": " em 1975",
+                                    "answer_start": 422,
+                                    "answer_end": 430,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "O que é a Orquestra Sinfônica da USP?",
+                            "id": 1188928,
+                            "answers": [
+                                {
+                                    "answer_id": 1101233,
+                                    "document_id": 1726067,
+                                    "question_id": 1188928,
+                                    "text": "é considerada atualmente uma das melhores orquestras do País",
+                                    "answer_start": 432,
+                                    "answer_end": 492,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Quem é o maestro da Orquestra Sinfônica da USP?",
+                            "id": 1188932,
+                            "answers": [
+                                {
+                                    "answer_id": 1101237,
+                                    "document_id": 1726067,
+                                    "question_id": 1188932,
+                                    "text": " maestro Ronaldo Bologna",
+                                    "answer_start": 527,
+                                    "answer_end": 551,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": ": (11) 3091.5071 / 3091.3930 - Orquestra de Câmara da USP (OCAM): fundada em 1995, tem como objetivo dar suporte às atividades pedagógicas desenvolvidas no Departamento de Música, propiciando aos alunos de instrumento a prática necessária rumo a uma profissionalização competente. As apresentações são regidas pelo maestro Gil Jardim. Tel. : (11) 3091.4330 / 3091.4089 ramal 7 - Orquestra Sinfônica da USP (OSUSP): Fundada em 1975, é considerada atualmente uma das melhores orquestras do País, com 38 componentes. É regida pelo maestro Ronaldo Bologna. Tel.",
+                    "document_id": 1726067
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Qual era a principal função dos sinos da torre da Universidade de Coimbra?",
+                            "id": 1168903,
+                            "answers": [
+                                {
+                                    "answer_id": 1071088,
+                                    "document_id": 1725721,
+                                    "question_id": 1168903,
+                                    "text": "avisar aos alunos sobre os horários de início e término das aulas",
+                                    "answer_start": 405,
+                                    "answer_end": 470,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "O apóstolo de encarnação, vestido de vermelho e com o manto azul, empunha com a direita uma espada em riste e mantém com à esquerda um livro. Para saber mais sobre o Brasão, acesse o site sobre a Identidade Visual da USP. Sino de bronze O sino foi fundido na cidade de Braga e é uma réplica da “Cabra”, um dos sinos da Torre da Universidade de Coimbra, datado do século 18, cuja função principal era a de avisar aos alunos sobre os horários de início e término das aulas.",
+                    "document_id": 1725721
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que é o Sisu?",
+                            "id": 1172810,
+                            "answers": [
+                                {
+                                    "answer_id": 1077836,
+                                    "document_id": 1725914,
+                                    "question_id": 1172810,
+                                    "text": "Sistema de Seleção Unificada",
+                                    "answer_start": 298,
+                                    "answer_end": 326,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": " USP tem lista de aprovados pelo Sisu 2022; confira os tutoriais para matrícula Aprovados na lista de chamada regular devem fazer a primeira etapa de matrícula virtual de 25 de fevereiro a 8 de março; primeira chamada em lista de espera será no dia 25 de março Os candidatos a uma vaga na USP pelo Sistema de Seleção Unificada (Sisu) de 2022 podem conferir a partir de hoje a lista de aprovados e a classificação no site da plataforma, neste link.",
+                    "document_id": 1725914
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que é a Bolsa Eiffel?",
+                            "id": 1174876,
+                            "answers": [
+                                {
+                                    "answer_id": 1081815,
+                                    "document_id": 1725976,
+                                    "question_id": 1174876,
+                                    "text": "A Bolsa Eiffel trata-se de um programa de bolsa de estudos lançado em 1999 pelo Ministério das Relações Exteriores da França",
+                                    "answer_start": 183,
+                                    "answer_end": 307,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "- Apenas poderão se candidatar às bolsas, os alunos que forem para as escolas francesas participantes de projetos ativos da CAPES. - Site dos Projetos Brafitec da CAPES Bolsas Eiffel A Bolsa Eiffel trata-se de um programa de bolsa de estudos lançado em 1999 pelo Ministério das Relações Exteriores da França. O seu objetivo é estimular os intercâmbios de estudantes estrangeiros nas universidades e escolas francesas.",
+                    "document_id": 1725976
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que é o IPT?",
+                            "id": 1174915,
+                            "answers": [
+                                {
+                                    "answer_id": 1081854,
+                                    "document_id": 1725982,
+                                    "question_id": 1174915,
+                                    "text": "Instituto de Pesquisas Tecnológicas",
+                                    "answer_start": 220,
+                                    "answer_end": 255,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "No período de graduação teve aulas teóricas ainda no Solar dos Três Rios, no centro de São Paulo, e as práticas laboratoriais no antigo prédio do Laboratório de Máquinas Hidráulicas, onde nos dias de hoje, localiza-se o Instituto de Pesquisas Tecnológicas (IPT). Diversos professores assinalaram presença em suas lembranças.",
+                    "document_id": 1725982
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Quem é o Reitor da USP?",
+                            "id": 1172243,
+                            "answers": [
+                                {
+                                    "answer_id": 1076933,
+                                    "document_id": 1725896,
+                                    "question_id": 1172243,
+                                    "text": "professor Vahan Agopyan",
+                                    "answer_start": 31,
+                                    "answer_end": 54,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Com abertura do reitor da USP, professor Vahan Agopyan, entre outras atividades, serão realizados dois painéis para a discussão do papel do duplo diploma na formação de engenheiros e da evolução dos programas de duplo diploma. O evento será realizado em inglês, para contemplar os sete países com os quais a Poli possui parceria no duplo diploma: Alemanha, Bélgica, Espanha, França, Itália, Peru e Portugal. O evento está sendo organizado pela Diretoria da Escola Politécnica e pela Comissão de Relações Internacionais da Poli.",
+                    "document_id": 1725896
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que os desenhos do painel do mundo da realidade representam?",
+                            "id": 1170555,
+                            "answers": [
+                                {
+                                    "answer_id": 1074897,
+                                    "document_id": 1725729,
+                                    "question_id": 1170555,
+                                    "text": "Astronomia, Química, Ciências Biológicas, Física, Ciências Geológicas e Matemática",
+                                    "answer_start": 228,
+                                    "answer_end": 310,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "O que os desenhos do painel do mundo da fantasia representam?",
+                            "id": 1170556,
+                            "answers": [
+                                {
+                                    "answer_id": 1074898,
+                                    "document_id": 1725729,
+                                    "question_id": 1170556,
+                                    "text": "Poesia, Ciências Sociais, Ciências Econômicas, Música, Teatro, Dança, Artes Plásticas, Arquitetura e Filosofia",
+                                    "answer_start": 354,
+                                    "answer_end": 464,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "O painel representando o mundo da fantasia tem a face voltada para o prédio da antiga Reitoria. Sua face oposta, com o mundo da realidade, é voltada para o prédio da Reitoria nova. No mundo da realidade, os desenhos representam Astronomia, Química, Ciências Biológicas, Física, Ciências Geológicas e Matemática. No mundo da fantasia, estão representados Poesia, Ciências Sociais, Ciências Econômicas, Música, Teatro, Dança, Artes Plásticas, Arquitetura e Filosofia.",
+                    "document_id": 1725729
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que é o Portal Solus?",
+                            "id": 1172769,
+                            "answers": [
+                                {
+                                    "answer_id": 1100086,
+                                    "document_id": 1725734,
+                                    "question_id": 1172769,
+                                    "text": "é um diretório de organizações e programas atuantes no campo de inovação e empreendedorismo nos diversos campi USP, de transferência de tecnologia e empresas criadas pela comunidade USP",
+                                    "answer_start": 15,
+                                    "answer_end": 200,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Por quem é produzido o Portal Solus?",
+                            "id": 1172770,
+                            "answers": [
+                                {
+                                    "answer_id": 1077787,
+                                    "document_id": 1725734,
+                                    "question_id": 1172770,
+                                    "text": "pela Pró-Reitoria de Pesquisa junto à Agência USP de Inovação",
+                                    "answer_start": 251,
+                                    "answer_end": 312,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "O Portal Solus é um diretório de organizações e programas atuantes no campo de inovação e empreendedorismo nos diversos campi USP, de transferência de tecnologia e empresas criadas pela comunidade USP, entre outras informações estratégicas. produzido pela Pró-Reitoria de Pesquisa junto à Agência USP de Inovação.",
+                    "document_id": 1725734
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que é o Fundo Patrimonial Amigos da Poli?",
+                            "id": 1172784,
+                            "answers": [
+                                {
+                                    "answer_id": 1077806,
+                                    "document_id": 1725738,
+                                    "question_id": 1172784,
+                                    "text": "uma associação formada por voluntários que captam recursos financeiros que serão investidos em projetos ligados à Poli",
+                                    "answer_start": 111,
+                                    "answer_end": 229,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Qual é o maior fundo patrimonial brasileiro relacionado a uma universidade?",
+                            "id": 1172786,
+                            "answers": [
+                                {
+                                    "answer_id": 1077808,
+                                    "document_id": 1725738,
+                                    "question_id": 1172786,
+                                    "text": "Fundo Patrimonial Amigos da Poli",
+                                    "answer_start": 18,
+                                    "answer_end": 50,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Roda de Conversa “Fundo Patrimonial Amigos da Poli – Centro de Carreiras” O Fundo Patrimonial Amigos da Poli é uma associação formada por voluntários que captam recursos financeiros que serão investidos em projetos ligados à Poli. A organização é o maior fundo patrimonial brasileiro relacionado a uma Universidade, e inspirou a criação do Fundo Patrimonial USP. O Fundo abre regularmente editais para seleção de projetos que receberão fomento da instituição. Os editais aceitam qualquer projeto que tenha vínculo com a Poli ou que seja encabeçado por membros da Comunidade Politécnica.",
+                    "document_id": 1725738
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Qual a principal missão da Escola Politécnica?",
+                            "id": 1172801,
+                            "answers": [
+                                {
+                                    "answer_id": 1077825,
+                                    "document_id": 1725743,
+                                    "question_id": 1172801,
+                                    "text": "ajudar a sociedade brasileira a enfrentar seus desafios tecnológicos",
+                                    "answer_start": 283,
+                                    "answer_end": 351,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Escola Politécnica da USP quer conhecer suas empresas-filhas Os engenheiros formados na instituição podem preencher um cadastro da Universidade destinado à inovação A Escola Politécnica (Poli) da USP, fundada em 1893, já formou mais de 30 mil engenheiros e tem como principal missão ajudar a sociedade brasileira a enfrentar seus desafios tecnológicos. O debate sobre inovação vem ganhando destaque na universidade, uma vez que esta forma empreendedores que atuam nas mais diversas áreas.",
+                    "document_id": 1725743
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Quem são os alunos especiais?",
+                            "id": 1175717,
+                            "answers": [
+                                {
+                                    "answer_id": 1083533,
+                                    "document_id": 1725772,
+                                    "question_id": 1175717,
+                                    "text": "são aqueles matriculados em disciplinas isoladas, sem vínculo com um programa de pós-graduação",
+                                    "answer_start": 334,
+                                    "answer_end": 428,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "MESTRADO E DOUTORADO Entenda as diferenças e características de cada tipo de curso e como buscar informações sobre eles e também todos os programas de mestrado e doutorado da USP em ordem alfabética Página do órgão responsável por promover e gerenciar o ensino de pós-graduação da USP Aluno especial da pós-graduação Alunos especiais são aqueles matriculados em disciplinas isoladas, sem vínculo com um programa de pós-graduação. A inscrição como aluno especial na USP deve ser realizada na secretaria de pós-graduação da disciplina ou curso de seu interesse, nas datas estabelecidas no calendário acadêmico de cada unidade de ensino.",
+                    "document_id": 1725772
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Por quem é gerida a política de inovação tecnológica da USP?",
+                            "id": 1171154,
+                            "answers": [
+                                {
+                                    "answer_id": 1075506,
+                                    "document_id": 1725731,
+                                    "question_id": 1171154,
+                                    "text": "pela Agência USP de Inovação",
+                                    "answer_start": 51,
+                                    "answer_end": 79,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Em que atua a agência USP de inovação?",
+                            "id": 1171156,
+                            "answers": [
+                                {
+                                    "answer_id": 1100084,
+                                    "document_id": 1725731,
+                                    "question_id": 1171156,
+                                    "text": "na proteção do patrimônio industrial e intelectual gerado na Universidade",
+                                    "answer_start": 319,
+                                    "answer_end": 392,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "A política de inovação tecnológica da USP é gerida pela Agência USP de Inovação, de modo a promover a utilização, pela sociedade, do conhecimento científico, tecnológico e cultural produzido na Universidade. Está presente na capital, Bauru, Lorena, Piracicaba, Pirassununga, Ribeirão Preto e São Carlos. A Agência atua na proteção do patrimônio industrial e intelectual gerado na Universidade, efetuando todos os procedimentos necessários para o registro de patentes, marcas, direitos autorais de livros, softwares, músicas, entre outras criações.",
+                    "document_id": 1725731
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que a Superintendência de Assistência Social (SAS) oferece?",
+                            "id": 1172789,
+                            "answers": [
+                                {
+                                    "answer_id": 1077812,
+                                    "document_id": 1725739,
+                                    "question_id": 1172789,
+                                    "text": "programas para auxiliar na permanência de estudantes em situação de vulnerabilidade social",
+                                    "answer_start": 286,
+                                    "answer_end": 376,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Além disso, os funcionários das bibliotecas da Poli também criaram o Guia do Calouro que está disponível nas bibliotecas e no site da Poli. Roda de Conversa “Esclarecimento de Dúvidas sobre Bolsas de Permanência” A USP, por meio da Superintendência de Assistência Social (SAS), oferece programas para auxiliar na permanência de estudantes em situação de vulnerabilidade social. A SAS disponibiliza o Programa de Apoio à Permanência e Formação Estudantil (PAPFE), o qual faz a seleção dos alunos que receberão os auxílios alimentação, livro, financeiro e moradia da USP.",
+                    "document_id": 1725739
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Quem é o vice-diretor da Poli?",
+                            "id": 1172806,
+                            "answers": [
+                                {
+                                    "answer_id": 1077831,
+                                    "document_id": 1725745,
+                                    "question_id": 1172806,
+                                    "text": "professor Reinaldo Giudici",
+                                    "answer_start": 24,
+                                    "answer_end": 50,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "O vice-diretor da Poli, professor Reinaldo Giudici, explica que a intenção é mostrar à sociedade os impactos econômicos das atividades da Escola, seu valor em termos de tecnologia, e mostrar ações inspiradoras para os docentes e alunos. A Escola Politécnica da USP tem, entre seus mais de 30 mil formados, diversas histórias de empreendedorismo. Esta página se dedica a contar algumas das incontáveis trajetórias dos politécnicos que criaram suas empresas, e colocaram seus projetos em prática.",
+                    "document_id": 1725745
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Na eleição para representação discente, a quem é assegurado o voto?",
+                            "id": 1175690,
+                            "answers": [
+                                {
+                                    "answer_id": 1083506,
+                                    "document_id": 1725765,
+                                    "question_id": 1175690,
+                                    "text": "aos alunos que forem docentes da Universidade",
+                                    "answer_start": 272,
+                                    "answer_end": 317,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "§2º – Excepcionalmente, mediante justificativa do Conselho do Departamento, a Congregação poderá dispensar o título de Doutor a que faz referência o inciso I, exigindo, em seu lugar, o título de Mestre. § 3º – Na eleição para a representação discente, é assegurado o voto aos alunos que forem docentes da Universidade. § 4º – Os membros referidos no inciso II terão como suplentes os votados a seguir, na mesma eleição. § 5º – O mandato dos membros docentes será de três anos e o da representação discente será de um ano, admitida a recondução nos dois casos.",
+                    "document_id": 1725765
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Sobre o que dispõe a Portaria GR nº 7.674 de 30 de setembro de 2021?",
+                            "id": 1175712,
+                            "answers": [
+                                {
+                                    "answer_id": 1083528,
+                                    "document_id": 1725770,
+                                    "question_id": 1175712,
+                                    "text": "sobre a aplicação da Lei Federal nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais – LGPD) no âmbito da Universidade de São Paulo",
+                                    "answer_start": 56,
+                                    "answer_end": 211,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Como podem ser os programas de pós-graduação da USP?",
+                            "id": 1175714,
+                            "answers": [
+                                {
+                                    "answer_id": 1083530,
+                                    "document_id": 1725770,
+                                    "question_id": 1175714,
+                                    "text": "stricto sensu, como são conhecidos os mestrados e doutorados, ou lato sensu, que é o caso das especializações ou MBAs",
+                                    "answer_start": 325,
+                                    "answer_end": 442,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Portaria GR nº 7.674 de 30 de setembro de 2021 – Dispõe sobre a aplicação da Lei Federal nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais – LGPD) no âmbito da Universidade de São Paulo. Pós-graduação A USP possui programas de pós-graduação em todas as áreas do conhecimento. Esses cursos podem ser stricto sensu, como são conhecidos os mestrados e doutorados, ou lato sensu, que é o caso das especializações ou MBAs.",
+                    "document_id": 1725770
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Com que objetivo foi criado o Inova USP?",
+                            "id": 1172761,
+                            "answers": [
+                                {
+                                    "answer_id": 1077777,
+                                    "document_id": 1725732,
+                                    "question_id": 1172761,
+                                    "text": "desenvolver pesquisas e estudos",
+                                    "answer_start": 68,
+                                    "answer_end": 99,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Inova USP O Centro de Pesquisa e Inovação Inova USP foi criado para desenvolver pesquisas e estudos centrados em quatro núcleos: Soluções Inovadoras para Pesquisa Interdisciplinar (IRIS, na sigla em inglês) Tem como objetivo desenvolver redes interdisciplinares dedicadas à busca de soluções inovadoras para problemas relevantes da sociedade, gerando impactos positivos na ciência, tecnologia, sociedade e negócios.",
+                    "document_id": 1725732
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Quem conduziu o processo de eleição dos Representantes de Classe (RCs)?",
+                            "id": 1172780,
+                            "answers": [
+                                {
+                                    "answer_id": 1077801,
+                                    "document_id": 1725737,
+                                    "question_id": 1172780,
+                                    "text": "o Grêmio Politécnico",
+                                    "answer_start": 23,
+                                    "answer_end": 43,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Qual a função dos Representantes de Classe?",
+                            "id": 1172781,
+                            "answers": [
+                                {
+                                    "answer_id": 1077802,
+                                    "document_id": 1725737,
+                                    "question_id": 1172781,
+                                    "text": "ajudar a turma sempre que surgir alguma questão acadêmica, como o esclarecimento de questões com os docentes",
+                                    "answer_start": 145,
+                                    "answer_end": 253,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Por quem é coordenado o Centro de Carreiras?",
+                            "id": 1172782,
+                            "answers": [
+                                {
+                                    "answer_id": 1077804,
+                                    "document_id": 1725737,
+                                    "question_id": 1172782,
+                                    "text": "pelo Fundo Patrimonial Amigos da Poli",
+                                    "answer_start": 540,
+                                    "answer_end": 577,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Após as apresentações, o Grêmio Politécnico conduziu o processo de eleição dos Representantes de Classe (RCs). Os representantes têm a função de ajudar a turma sempre que surgir alguma questão acadêmica, como o esclarecimento de questões com os docentes. Além disso, eles são essenciais para manter o contato com os professores e Representantes Discentes. Confira os Representantes de Classe escolhidos. As Rodas de Conversa ocorreram a partir das 16h no vão aberto do Biênio. Os bate-papos abordaram sobre o Centro de Carreiras coordenado pelo Fundo Patrimonial Amigos da Poli, o funcionamento das bibliotecas e as bolsas de permanência.",
+                    "document_id": 1725737
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que os alunos devem apresentar para se cadastrar no PAPFE?",
+                            "id": 1172796,
+                            "answers": [
+                                {
+                                    "answer_id": 1077820,
+                                    "document_id": 1725742,
+                                    "question_id": 1172796,
+                                    "text": "documentos que comprovem a baixa renda familiar e a necessidade dos auxílios",
+                                    "answer_start": 59,
+                                    "answer_end": 135,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Para se cadastrar no PAPFE, os estudantes devem apresentar documentos que comprovem a baixa renda familiar e a necessidade dos auxílios. O cadastro do PAPFE também é utilizado para o Programa Unificado de Bolsas (PUB), o qual seleciona alunos da USP para serem bolsistas em Projetos de Extensão ou monitoria. Para participar do PUB, não é preciso comprovar o estado de vulnerabilidade social. Tanto o auxílio financeiro como as bolsas PUB são no valor de R$500,00. Mais informações são disponibilizadas no site da SAS. Confira a programação e mais detalhes dos próximos dias da Semana de Recepção aqui.",
+                    "document_id": 1725742
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Como foi a estrutura para alimentação da Feira USP e as Profissões de 2023?",
+                            "id": 1174994,
+                            "answers": [
+                                {
+                                    "answer_id": 1081934,
+                                    "document_id": 1725757,
+                                    "question_id": 1174994,
+                                    "text": "estrutura para food trucks, com duas praças de alimentação",
+                                    "answer_start": 457,
+                                    "answer_end": 515,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Feira USP e as Profissões 2023 Quando | De 14 a 16 de setembro de 2023 (quinta, sexta e sábado), das 9h às 17h Onde | Praça do Relógio, campus Butantã da USP Como chegar Portaria 1 Cruzamento da Av. Afrânio Peixoto com Rua Alvarenga. Portaria 2 Av. Escola Politécnica, altura do número 403; acesso de ônibus pela portaria 2. Portaria 3 Av. Corifeu de Azevedo Marques, altura do número 2.900. Para alimentação, a edição 2023 também vai contar com o dobro da estrutura para food trucks, com duas praças de alimentação.",
+                    "document_id": 1725757
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Como será eleita a representação discente na Comissão de Cultura e Extensão Universitária?",
+                            "id": 1175558,
+                            "answers": [
+                                {
+                                    "answer_id": 1083372,
+                                    "document_id": 1725762,
+                                    "question_id": 1175558,
+                                    "text": "proporcionalmente entre os alunos de graduação e pós-graduação, não-docentes da Universidade, correspondente a dez por cento do total de docentes da Comissão",
+                                    "answer_start": 251,
+                                    "answer_end": 408,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "A Comissão de Cultura e Extensão Universitária terá a seguinte constituição: I – um representante de cada Departamento, portador no mínimo do título de Doutor, eleito pelo respectivo Conselho entre seus docentes; II – a representação discente, eleita proporcionalmente entre os alunos de graduação e pós-graduação, não-docentes da Universidade, correspondente a dez por cento do total de docentes da Comissão; § 1º – Os membros referidos no inciso I terão seus suplentes eleitos obedecendo às mesmas normas do titular e com mandatos coincidentes.",
+                    "document_id": 1725762
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que é o pós-doutorado na USP?",
+                            "id": 1175719,
+                            "answers": [
+                                {
+                                    "answer_id": 1083535,
+                                    "document_id": 1725773,
+                                    "question_id": 1175719,
+                                    "text": "é um programa realizado nas unidades, órgãos de integração e órgãos complementares por portadores de título de doutor com o objetivo de melhorar o nível de excelência científica da Universidade",
+                                    "answer_start": 249,
+                                    "answer_end": 442,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "CURSOS LATO SENSU É o órgão administrativo responsável pelo oferecimento e gerenciamento de cursos e atividades de extensão universitária nas suas mais diversas modalidades, seguindo a regulamentação específica. PÓS-DOUTORADO O pós-doutorado na USP é um programa realizado nas unidades, órgãos de integração e órgãos complementares por portadores de título de doutor com o objetivo de melhorar o nível de excelência científica da Universidade. A Pró-Reitoria de Pesquisa é o órgão responsável por gerenciar esse tipo de programa.",
+                    "document_id": 1725773
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que é o SIICUSP?",
+                            "id": 1172261,
+                            "answers": [
+                                {
+                                    "answer_id": 1076950,
+                                    "document_id": 1725915,
+                                    "question_id": 1172261,
+                                    "text": "O Simpósio Internacional de Iniciação Científica e Tecnológica da USP",
+                                    "answer_start": 348,
+                                    "answer_end": 417,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "O que é o Grêmio Politécnico?",
+                            "id": 1172263,
+                            "answers": [
+                                {
+                                    "answer_id": 1076952,
+                                    "document_id": 1725915,
+                                    "question_id": 1172263,
+                                    "text": "associação de representação estudantil da Escola Politécnica (Poli) da USP, ",
+                                    "answer_start": 585,
+                                    "answer_end": 661,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Poli-USP recebe Caminhão-escola da ArcelorMittal nesta quinta-feira, 31 de agosto de 2023 A ArcelorMittal, a USP e a Cátedra Construindo o Amanhã te convidam para participar de A ArcelorMittal, a USP e a Cátedra Construindo o Amanhã te convidam para participar de A Prefeitura do Campus da Capital informa que no domingo, dia 3 de setembro, devido O Simpósio Internacional de Iniciação Científica e Tecnológica da USP (SIICUSP), um dos principais eventos da Está disponível a pesquisa de mobilidade na cidade universitária, nela você pode preencher como funciona O Grêmio Politécnico, associação de representação estudantil da Escola Politécnica (Poli) da USP, abriu um A Prefeitura do Campus iniciou a aplicação de um sistema pré-embarque na estação Butantã.",
+                    "document_id": 1725915
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Quando será divulgada a classificação em lista de espera?",
+                            "id": 1172818,
+                            "answers": [
+                                {
+                                    "answer_id": 1077844,
+                                    "document_id": 1725919,
+                                    "question_id": 1172818,
+                                    "text": "A classificação na lista de espera será divulgada dia 15 de março",
+                                    "answer_start": 137,
+                                    "answer_end": 202,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Candidatos que não foram chamados na lista regular podem participar da lista de espera, indicando sua escolha de 22 fevereiro a 8 março. A classificação na lista de espera será divulgada dia 15 de março (neste link) e a 1a chamada será em 25 de março no site usp. O cronograma completo sobre ingresso pelo Sisu na USP você confere neste link. Tutoriais da primeira etapa da matrícula virtual no link.",
+                    "document_id": 1725919
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Qual a resolução da ANVISA que formaliza regras para a produção, comercialização e uso de resina PET-PCR na fabricação de embalagens que ofereçam contato direto com alimentos?",
+                            "id": 1173844,
+                            "answers": [
+                                {
+                                    "answer_id": 1079570,
+                                    "document_id": 1725940,
+                                    "question_id": 1173844,
+                                    "text": "Resolução RDC 20/08 da ANVISA",
+                                    "answer_start": 170,
+                                    "answer_end": 199,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Ela produz mensalmente 1.500 toneladas de resina PET-PCR e recicla até 26 Kton/ano de garrafas PET e flakes de PET, sendo a primeira no Brasil a registrar seu produto na Resolução RDC 20/08 da ANVISA, que formaliza regras para a produção, comercialização e uso de resina PET-PCR na fabricação de embalagens que ofereçam contato direto com alimentos, sendo, portanto, uma empresa renomada e reconhecida. Equipe Poli Recicla na empresa Global Pet, em São Carlos. Os pesquisadores da Universidade estão distribuídos pelas diversas unidades, museus e institutos especializados.",
+                    "document_id": 1725940
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que é o Festival FILE?",
+                            "id": 1173900,
+                            "answers": [
+                                {
+                                    "answer_id": 1079623,
+                                    "document_id": 1725955,
+                                    "question_id": 1173900,
+                                    "text": "Festival Internacional da Linguagem Eletrônica",
+                                    "answer_start": 121,
+                                    "answer_end": 167,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "O que é a competição SAE?",
+                            "id": 1173903,
+                            "answers": [
+                                {
+                                    "answer_id": 1079626,
+                                    "document_id": 1725955,
+                                    "question_id": 1173903,
+                                    "text": "Sociedade de Engenheiros Automotivos",
+                                    "answer_start": 539,
+                                    "answer_end": 575,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Atua em trabalhos solo e em parceria com diversos artistas de renome na cena das novas mídias. Já realizou exposições no Festival Internacional da Linguagem Eletrônica (FILE), além de participações individuais de seus artistas-parceiros. Alunos de diversos cursos desenvolvem, constroem e pilotam os veículos. Os da Mecatrônica costumam se envolver no estudo da dinâmica veicular dos Baja. A atividade é multidisciplinar e voluntária. A equipe Poli-USP de Baja existe desde 1996 e, em 2012, foi campeã nacional da XVIII Competição da SAE (Sociedade de Engenheiros Automotivos).",
+                    "document_id": 1725955
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que o GP Poli?",
+                            "id": 1173917,
+                            "answers": [
+                                {
+                                    "answer_id": 1079640,
+                                    "document_id": 1725960,
+                                    "question_id": 1173917,
+                                    "text": "tradicional corrida de carrinhos de rolimã que acontece desde 1986 na Universidade",
+                                    "answer_start": 195,
+                                    "answer_end": 277,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "O que é o ThundeRatz?",
+                            "id": 1173919,
+                            "answers": [
+                                {
+                                    "answer_id": 1099115,
+                                    "document_id": 1725960,
+                                    "question_id": 1173919,
+                                    "text": "uma equipe de robótica extracurricular",
+                                    "answer_start": 361,
+                                    "answer_end": 399,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "O que é o Centro Acadêmico CAM da Poli?",
+                            "id": 1173916,
+                            "answers": [
+                                {
+                                    "answer_id": 1079639,
+                                    "document_id": 1725960,
+                                    "question_id": 1173916,
+                                    "text": "Centro Acadêmico da Mecânica e Mecatrônica",
+                                    "answer_start": 3,
+                                    "answer_end": 45,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "No Centro Acadêmico da Mecânica e Mecatrônica (CAM), o aluno pode engajar-se na Semana de Engenharia Automotiva – organizada anualmente com palestrantes do mercado –, pode participar no GP Poli, tradicional corrida de carrinhos de rolimã que acontece desde 1986 na Universidade, ou pode participar da Copacam, uma Copa com 32 times de futsal. Com a ThundeRatz, uma equipe de robótica extracurricular formada por estudantes da Engenharia Mecatrônica e de outros departamentos da Poli-USP, a Escola participa de competições internacionais de robótica.",
+                    "document_id": 1725960
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Como os eventos do Dia da Poli serão realizados?",
+                            "id": 1173937,
+                            "answers": [
+                                {
+                                    "answer_id": 1099122,
+                                    "document_id": 1725965,
+                                    "question_id": 1173937,
+                                    "text": "de maneira virtual, e poderão ser acompanhados pelo canal da Escola no Youtube",
+                                    "answer_start": 254,
+                                    "answer_end": 332,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "No dia 24 de agosto de 2020, a Escola Politécnica (Poli) da USP completará 127 anos de existência. Neste dia, a comunidade politécnica (alunos, professores, funcionários e ex-alunos) celebra o Dia da Poli, e devido à pandemia os eventos serão realizados de maneira virtual, e poderão ser acompanhados pelo canal da Escola no Youtube. A programação foi dividida em dois dias.",
+                    "document_id": 1725965
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Quando o Intercâmbio se inicia na maioria das Universidades?",
+                            "id": 1173848,
+                            "answers": [
+                                {
+                                    "answer_id": 1079574,
+                                    "document_id": 1725942,
+                                    "question_id": 1173848,
+                                    "text": "no final do 7º semestre",
+                                    "answer_start": 61,
+                                    "answer_end": 84,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Porém, na maioria das universidades, o intercâmbio se inicia no final do 7º semestre, durando até dois anos, e o aluno retorna para cursar apenas o último semestre da graduação. Leia também: Brasileiro é premiado por desempenho em intercâmbio na França Nesse período, o intercambista precisa cumprir um número mínimo de créditos por semestre. Existe a opção de desenvolver o projeto de conclusão de curso durante o intercâmbio e posteriormente apresentá-lo aqui, o que é encorajado pela universidade. Ao final do curso, nessa modalidade, o graduando recebe o diploma de ambas as universidades.",
+                    "document_id": 1725942
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que é o Prominp?",
+                            "id": 1173889,
+                            "answers": [
+                                {
+                                    "answer_id": 1079613,
+                                    "document_id": 1725952,
+                                    "question_id": 1173889,
+                                    "text": " O Programa Nacional de Mobilização da indústria Nacional de Petróleo e gás Natural",
+                                    "answer_start": 135,
+                                    "answer_end": 218,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "O que o Prominp oferece?",
+                            "id": 1173890,
+                            "answers": [
+                                {
+                                    "answer_id": 1079614,
+                                    "document_id": 1725952,
+                                    "question_id": 1173890,
+                                    "text": "oferece cursos de formação e de pós-graduação lato sensu.",
+                                    "answer_start": 229,
+                                    "answer_end": 286,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "O objetivo é dar formação acadêmica e tecnológica a profissionais que exercerão cargos de chefia e direção em empresas fabris em geral. O Programa Nacional de Mobilização da indústria Nacional de Petróleo e gás Natural (Prominp) oferece cursos de formação e de pós-graduação lato sensu. São cursos voltados para toda a cadeia produtiva de petróleo e gás.",
+                    "document_id": 1725952
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Como é organizado o Banco de imagens de organismos marinhos?",
+                            "id": 1172822,
+                            "answers": [
+                                {
+                                    "answer_id": 1077848,
+                                    "document_id": 1725920,
+                                    "question_id": 1172822,
+                                    "text": "informações descritivas como classificação taxonômica, estágio de vida e geolocalização",
+                                    "answer_start": 178,
+                                    "answer_end": 265,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Traz informações cartobibliográficas, biográficas, dados de natureza técnica e editorial; assim como verbetes explicativos Banco de imagens de organismos marinhos organizado por informações descritivas como classificação taxonômica, estágio de vida e geolocalização. As imagens são produto direto de pesquisas científicas e atividades de ensino em biologia marinha realizadas por estudantes e pesquisadores  Bem-vindo(a) ao site do SIICUSP 2022 na Escola Politécnica da USP!",
+                    "document_id": 1725920
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Quando foi a visita técnica no Centro de Reciclagem da Nespresso? ",
+                            "id": 1172865,
+                            "answers": [
+                                {
+                                    "answer_id": 1077890,
+                                    "document_id": 1725935,
+                                    "question_id": 1172865,
+                                    "text": "dezembro de 2018",
+                                    "answer_start": 181,
+                                    "answer_end": 197,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Tendo em vista o grande aumento do uso de cápsulas de café e sua consequente geração de resíduos, o Poli Recicla agendou uma visita técnica no Centro de Reciclagem da Nespresso® em dezembro de 2018. Com a visita, o Poli Recicla pôde compreender o processo de reciclagem da cápsula de alumínio e toda a logística necessária para sua realização. Equipe Poli Recicla no Centro de Reciclagem da Nespresso.",
+                    "document_id": 1725935
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que é a CRInt?",
+                            "id": 1173862,
+                            "answers": [
+                                {
+                                    "answer_id": 1079588,
+                                    "document_id": 1725944,
+                                    "question_id": 1173862,
+                                    "text": "A Comissão de Relações Internacionais",
+                                    "answer_start": 0,
+                                    "answer_end": 37,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "A Comissão de Relações Internacionais da Escola, conhecida pela sigla CRInt, é o escritório responsável pelos convênios e parcerias com universidades do exterior. Segundo o professor Márcio Lobo Netto, diretor de mobilidade internacional da universidade, a função do órgão é proporcionar aos alunos as melhores oportunidades dentro da graduação. Na Poli, existem três modalidades de internacionalização: duplo diploma, aproveitamento de estudos e intercâmbio aberto.",
+                    "document_id": 1725944
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Quem é a diretora da Poli?",
+                            "id": 1173928,
+                            "answers": [
+                                {
+                                    "answer_id": 1079651,
+                                    "document_id": 1725963,
+                                    "question_id": 1173928,
+                                    "text": "Liedi Légi Bariani Bernucci",
+                                    "answer_start": 319,
+                                    "answer_end": 346,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Quem é o vice-diretor da Poli?",
+                            "id": 1173929,
+                            "answers": [
+                                {
+                                    "answer_id": 1079652,
+                                    "document_id": 1725963,
+                                    "question_id": 1173929,
+                                    "text": "Reinaldo Giudici",
+                                    "answer_start": 365,
+                                    "answer_end": 381,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Quem é o diretor da Associação dos Engenheiros Politécnicos?",
+                            "id": 1173931,
+                            "answers": [
+                                {
+                                    "answer_id": 1079654,
+                                    "document_id": 1725963,
+                                    "question_id": 1173931,
+                                    "text": "Dario Gramorelli",
+                                    "answer_start": 493,
+                                    "answer_end": 509,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "No domingo, dia 23 de agosto, das 16h às 19h, uma extensa programação abordará, principalmente, como a Escola tem se reinventado em tempos de pandemia, e como a comunidade está enfrentando os desafios deste contexto. A abertura do evento contará com a participação do Reitor da USP, Vahan Agopyan, da diretora da Poli, Liedi Légi Bariani Bernucci, do vice-diretor, Reinaldo Giudici, do professor Marcelo Zuffo e do politécnico e atual diretor geral da Associação dos Engenheiros Politécnicos, Dario Gramorelli.",
+                    "document_id": 1725963
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que é a Biblioteca IEB?",
+                            "id": 1172266,
+                            "answers": [
+                                {
+                                    "answer_id": 1099065,
+                                    "document_id": 1725917,
+                                    "question_id": 1172266,
+                                    "text": "A Biblioteca do IEB é considerada uma das mais ricas em assuntos brasileiros, aproximando-se dos 180 mil volumes",
+                                    "answer_start": 274,
+                                    "answer_end": 386,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Os materiais abordam temas variados da história do Brasil, como coleções de livros de literatura e de história, iconografias, e uma coleção de periódicos dos séculos 19 e 20 Dá acesso à descrição dos itens pertencentes ao Arquivo, à Biblioteca e à Coleção de Artes Visuais. A Biblioteca do IEB é considerada uma das mais ricas em assuntos brasileiros, aproximando-se dos 180 mil volumes, incluindo livros, separatas, teses, periódicos e partituras Reúne a coleção de mapas impressos cedidos ao IEB por determinação da Justiça Federal do paulista.",
+                    "document_id": 1725917
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que foi apresentado na visita técnica à Central de Triagem Mecanizada “Carolina Maria de Jesus” em fevereiro de 2018?",
+                            "id": 1172845,
+                            "answers": [
+                                {
+                                    "answer_id": 1077871,
+                                    "document_id": 1725928,
+                                    "question_id": 1172845,
+                                    "text": "Na visita, foi apresentado o sistema de automatização usado na estação.",
+                                    "answer_start": 528,
+                                    "answer_end": 599,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Equipe Poli Recicla com os Centros Acadêmicos da Ambiental e Elétrica, respectivamente Visitas Técnicas O Poli Recicla realiza visitas técnicas com o intuito de integrar o conhecimento teórico com o prático, por meio de vivências em diversos locais que realizam trabalhos relacionados ao escopo do programa. Com o intuito de expandir o conhecimento sobre as diversas opções de encaminhamento de resíduos, o Poli Recicla realizou uma visita técnica à Central de Triagem Mecanizada “Carolina Maria de Jesus” em fevereiro de 2018. Na visita, foi apresentado o sistema de automatização usado na estação.",
+                    "document_id": 1725928
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que é o CENA da USP?",
+                            "id": 1173922,
+                            "answers": [
+                                {
+                                    "answer_id": 1079645,
+                                    "document_id": 1725961,
+                                    "question_id": 1173922,
+                                    "text": "Centro de Energia Nuclear na Agricultura",
+                                    "answer_start": 627,
+                                    "answer_end": 667,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "O que é o PRCE da USP?",
+                            "id": 1187808,
+                            "answers": [
+                                {
+                                    "answer_id": 1100081,
+                                    "document_id": 1725961,
+                                    "question_id": 1187808,
+                                    "text": "A Superintendência de Gestão Ambiental e a Pró-Reitoria de Cultura e Extensão",
+                                    "answer_start": 882,
+                                    "answer_end": 959,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": " Carregando visualização Eventos - Eventos - Eventos Todos os Dias Superintendência de Gestão Ambiental promoverá este ano a sexta edição da Mostra Ecofalante USP e a Agenda 2030 (Save the date) A Superintendência de Gestão Ambiental e a Pró-Reitoria de Cultura e Extensão (PRCE), em parceria Nono Congresso Latino-Americano da Construção Metálica conta com participação de professores da Escola Politécnica da USP No dia 21 de setembro, das 8h às 21h, será realizado, no Allianz Parque, o Simpósio Científico dos Pós-Graduandos abre inscrições e convida pesquisadores a submeterem trabalhos A Associação dos Pós-Graduandos do Centro de Energia Nuclear na Agricultura (CENA) da USP está  Carregando visualização Eventos - Eventos - Eventos Todos os Dias Superintendência de Gestão Ambiental promoverá este ano a sexta edição da Mostra Ecofalante USP e a Agenda 2030 (Save the date) A Superintendência de Gestão Ambiental e a Pró-Reitoria de Cultura e Extensão (PRCE), em parceria  É proibida a reprodução do conteúdo institucional das páginas do Portal da USP em qualquer meio de comunicação, eletrônico ou impresso, sem autorização escrita da equipe do Portal da USP.",
+                    "document_id": 1725961
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Qual a visão do Engenheiro de Produção?",
+                            "id": 1176019,
+                            "answers": [
+                                {
+                                    "answer_id": 1086085,
+                                    "document_id": 1726000,
+                                    "question_id": 1176019,
+                                    "text": "o engenheiro necessita ter uma visão abrangente do processo produtivo e, por conseguinte, dos agentes ali inseridos",
+                                    "answer_start": 168,
+                                    "answer_end": 283,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "A Engenharia de Produção, por sua vez, “lida com a gestão, (…) com a organização (…) que cria uma organização onde as pessoas se situam cada uma numa posição(…)”, logo o engenheiro necessita ter uma visão abrangente do processo produtivo e, por conseguinte, dos agentes ali inseridos. (NAKATA, Vera Lucia M., TORRE, Silvia Regina S. Dela e LIMA, Igor Renato M. de. Entrevista com o professor Francisco Romeu Landi, 2003).",
+                    "document_id": 1726000
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que é a FAPESP?",
+                            "id": 1176022,
+                            "answers": [
+                                {
+                                    "answer_id": 1086088,
+                                    "document_id": 1726001,
+                                    "question_id": 1176022,
+                                    "text": "Fundação de Amparo à Pesquisa do Estado de São Paulo",
+                                    "answer_start": 127,
+                                    "answer_end": 179,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Francisco Romeu Landi, a despeito de já encontrar-se aposentado, foi extremamente atuante na carreira acadêmica. Presidente da Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP), ademais de seus esforços no dito projeto Poli 2015, é o coordenador das festividades dos 110 anos da Escola Politécnica.",
+                    "document_id": 1726001
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que é o Projeto Jupiter?",
+                            "id": 1173859,
+                            "answers": [
+                                {
+                                    "answer_id": 1079585,
+                                    "document_id": 1725943,
+                                    "question_id": 1173859,
+                                    "text": "grupo de foguetemodelismo da Escola Politécnica da USP",
+                                    "answer_start": 1051,
+                                    "answer_end": 1105,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "O que é a FEBRACE?",
+                            "id": 1173855,
+                            "answers": [
+                                {
+                                    "answer_id": 1079581,
+                                    "document_id": 1725943,
+                                    "question_id": 1173855,
+                                    "text": "A Feira Brasileira de Ciências e Engenharia (FEBRACE), movimento nacional de estímulo ao jovem cientista",
+                                    "answer_start": 323,
+                                    "answer_end": 427,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "O que é a PRIP?",
+                            "id": 1173856,
+                            "answers": [
+                                {
+                                    "answer_id": 1079582,
+                                    "document_id": 1725943,
+                                    "question_id": 1173856,
+                                    "text": "A Pró-Reitoria de Inclusão e Pertencimento (PRIP)",
+                                    "answer_start": 739,
+                                    "answer_end": 788,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "O que é a IEA?",
+                            "id": 1173858,
+                            "answers": [
+                                {
+                                    "answer_id": 1079584,
+                                    "document_id": 1725943,
+                                    "question_id": 1173858,
+                                    "text": "Instituto de Estudos Avançados (IEA) da USP",
+                                    "answer_start": 864,
+                                    "answer_end": 907,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "O que é a PREU?",
+                            "id": 1173860,
+                            "answers": [
+                                {
+                                    "answer_id": 1079586,
+                                    "document_id": 1725943,
+                                    "question_id": 1173860,
+                                    "text": " A Pró-reitoria de Cultura e Extensão (PREU)",
+                                    "answer_start": 1137,
+                                    "answer_end": 1181,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Programa Santander Explorer recebe projetos para transformá-los em negócios sustentáveis alinhados com os objetivos da ONU A Agência USP de inovação divulgou o “Programa Santander Explorer”, em que os participantes poderão A Agência USP de inovação divulgou o “Programa Santander Explorer”, em que os participantes poderão A Feira Brasileira de Ciências e Engenharia (FEBRACE), movimento nacional de estímulo ao jovem cientista, Palestra “Integrando leitura e escrita acadêmicas: das notas ao manuscrito” será realizada no dia 30 RESULTADO Divulgamos o resultado do Edital UGPN 2023 (12ª chamada para Projetos de Pesquisa em USP oferece bolsas de intercâmbio internacional para alunas da Pós-graduação 17/8/2023 A Pró-Reitoria de Inclusão A Pró-Reitoria de Inclusão e Pertencimento (PRIP) e a Agência USP de Cooperação Acadêmica Nacional e A Cátedra Oscar Sala do Instituto de Estudos Avançados (IEA) da USP, em parceria com O 31° Simpósio Internacional de Iniciação Científica e Tecnológica da USP (SIICUSP) abriu suas inscrições, O Projeto Jupiter, grupo de foguetemodelismo da Escola Politécnica da USP, está recebendo inscrições para A Pró-reitoria de Cultura e Extensão (PREU) abriu a 3° e última chamada de Fomento  Durante a semana de recepção dos calouros de 2020, a Poli realizou palestras dando um panorama de como funcionam os intercâmbios e a mobilidade acadêmica internacional na faculdade.",
+                    "document_id": 1725943
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Qual o Endereço do Poli Recicla?",
+                            "id": 1172273,
+                            "answers": [
+                                {
+                                    "answer_id": 1076962,
+                                    "document_id": 1725925,
+                                    "question_id": 1172273,
+                                    "text": "Escola Politécnica da USP Avenida Prof. Luciano Gualberto, 380, Travessa 3 – Prédio da Administração, Cidade Universitária, São Paulo -SP.",
+                                    "answer_start": 114,
+                                    "answer_end": 252,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Ainda não tem a sua? Entre em contato com a gente! E-mail: recicla.poli@usp.br Telefone: (11) 3091-5517 Endereço: Escola Politécnica da USP Avenida Prof. Luciano Gualberto, 380, Travessa 3 – Prédio da Administração, Cidade Universitária, São Paulo -SP. facebook.com/polireciclausp @poli.recicla Treinamentos O Poli Recicla realiza, anualmente, treinamento para os funcionários da equipe de limpeza da Escola Politécnica, de maneira a orientá-los perante os resíduos gerados na Escola e melhorar sua segregação e destinação ambientalmente correta. Ao final, é emitido um Certificado de Participação.",
+                    "document_id": 1725925
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Por que razão a cerimônia de 20 anos de duplo diploma da Poli foi totalmente virtual?",
+                            "id": 1172424,
+                            "answers": [
+                                {
+                                    "answer_id": 1077444,
+                                    "document_id": 1725895,
+                                    "question_id": 1172424,
+                                    "text": "Em razão da pandemia de covid-19",
+                                    "answer_start": 0,
+                                    "answer_end": 32,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Em razão da pandemia de covid-19, a cerimônia será totalmente virtual e contará com a participação de dirigentes das escolas estrangeiras e da USP, de representantes de empresas e de engenheiros que participaram do programa de duplo diploma. Além de festejar os 20 anos de duplo diploma da Poli, o evento tem como objetivos divulgar a alunos, grupos da USP e empresas de engenharia o papel dos programas de duplo diploma na formação de profissionais e discutir o aprimoramento desses programas.",
+                    "document_id": 1725895
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Quando foi construída a Praça do Relógio da USP?",
+                            "id": 1170315,
+                            "answers": [
+                                {
+                                    "answer_id": 1073808,
+                                    "document_id": 1725726,
+                                    "question_id": 1170315,
+                                    "text": "1971",
+                                    "answer_start": 317,
+                                    "answer_end": 321,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "O sino foi doado à USP por ocasião das comemorações do quarto centenário da fundação da cidade de São Paulo e estava instalado na entrada lateral do prédio da Administração Central. Após seu restauro, a peça foi transferida, em 2015, para a entrada do prédio do Conselho Universitário. Praça do Relógio Construída em 1971 e reinaugurada em 1997, a praça abriga a Torre do Relógio. Com a reforma, foi reurbanizada de acordo com um projeto paisagístico elaborado por professores da Faculdade de Arquitetura e Urbanismo e do Instituto de Biociências.",
+                    "document_id": 1725726
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Quem é o reitor da USP?",
+                            "id": 1187809,
+                            "answers": [
+                                {
+                                    "answer_id": 1100087,
+                                    "document_id": 1725812,
+                                    "question_id": 1187809,
+                                    "text": "Carlos Gilberto Carlotti",
+                                    "answer_start": 16,
+                                    "answer_end": 40,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "O reitor da USP Carlos Gilberto Carlotti destaca que a iniciativa é um grande passo para elevar a USP como uma universidade que investe e se preocupa com inovação. “Há anos a USP tem feito um esforço muito grande para que a inovação fizesse parte de sua agenda e estivesse presente em todos os seus ambientes.",
+                    "document_id": 1725812
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Quando a primeira estação de hidrogênio renovável a partir do etanol do mundo será instalada na Cidade Universitária?",
+                            "id": 1187815,
+                            "answers": [
+                                {
+                                    "answer_id": 1100093,
+                                    "document_id": 1725813,
+                                    "question_id": 1187815,
+                                    "text": "no segundo semestre de 2024",
+                                    "answer_start": 300,
+                                    "answer_end": 327,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Qual será a capacidade da planta-piloto da primeira estação de hidrogênio renovável a partir do etanol do mundo?",
+                            "id": 1187818,
+                            "answers": [
+                                {
+                                    "answer_id": 1100096,
+                                    "document_id": 1725813,
+                                    "question_id": 1187818,
+                                    "text": "4,5 quilos de hidrogênio por hora",
+                                    "answer_start": 424,
+                                    "answer_end": 457,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "USP Butantã terá a primeira estação de hidrogênio renovável a partir do etanol do mundo Com informações do Jornal da USP – A Cidade Universitária receberá a primeira estação de abastecimento de hidrogênio renovável a partir de etanol do mundo. A estação experimental está prevista para ser instalada no segundo semestre de 2024 e a planta-piloto ocupará uma área de 425 metros quadrados e terá capacidade para a produção de 4,5 quilos de hidrogênio por hora, quantidade suficiente para abastecer até três ônibus e um veículo leve.",
+                    "document_id": 1725813
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que a Bolsa BRAFITEC promove?",
+                            "id": 1174884,
+                            "answers": [
+                                {
+                                    "answer_id": 1081823,
+                                    "document_id": 1725977,
+                                    "question_id": 1174884,
+                                    "text": "Bolsa BRAFITEC: O Programa CAPES-Brafitec promove o intercâmbio de estudantes em todas as especialidades da engenharia",
+                                    "answer_start": 172,
+                                    "answer_end": 290,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Importante: A não apresentação do Certificado de Chegada e/ou Relatório Final + Histórico Escolar do período de intercâmbio poderá acarretar a devolução do valor da bolsa. Bolsa BRAFITEC: O Programa CAPES-Brafitec promove o intercâmbio de estudantes em todas as especialidades da engenharia. Estudantes brasileiros podem cursar até um ano de sua graduação na França e estudantes franceses podem estudar no Brasil pelo mesmo período.",
+                    "document_id": 1725977
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que é a FUSP?",
+                            "id": 1188770,
+                            "answers": [
+                                {
+                                    "answer_id": 1101073,
+                                    "document_id": 1726029,
+                                    "question_id": 1188770,
+                                    "text": "FUSP – Fundação de Apoio à USP",
+                                    "answer_start": 366,
+                                    "answer_end": 396,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Em seguimento, consolidou a carreira na instituição, tanto que a partir da década de 1990 passou a desempenhar cargos administrativos, tais como a coordenação do Centro de Computação Eletrônica (CCE), a presidência da Comissão Central de Informática da USP, a diretoria do Sistema de Telecomunicações da USP, a vice diretoria da Escola Politécnica, a instituição da FUSP – Fundação de Apoio à USP e seu diretor executivo e, entre 1998 e 2002, a diretoria da Escola Politécnica.",
+                    "document_id": 1726029
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que é a SCS da USP?",
+                            "id": 1188829,
+                            "answers": [
+                                {
+                                    "answer_id": 1101132,
+                                    "document_id": 1726050,
+                                    "question_id": 1188829,
+                                    "text": " Superintendência de Comunicação Social (SCS) da USP",
+                                    "answer_start": 46,
+                                    "answer_end": 98,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Parceria entre a Pró-Reitoria de Graduação e a Superintendência de Comunicação Social (SCS) da USP, o Manual do Calouro reúne informações sobre os serviços oferecidos pela Universidade, iniciativas e projetos institucionais e aplicativos para celular úteis para o dia a dia dos estudantes  Grêmio Politécnico inaugura exposição de linha do tempo de sua história Com os 120 anos do Grêmio Politécnico da Escola Politécnica da USP, a entidade está realizando uma série de atividades e homenagens em comemoração.",
+                    "document_id": 1726050
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "O que é o programa USP e as Profissões?",
+                            "id": 1188784,
+                            "answers": [
+                                {
+                                    "answer_id": 1101087,
+                                    "document_id": 1726041,
+                                    "question_id": 1188784,
+                                    "text": "A iniciativa organiza duas vezes por ano a Feira USP e as Profissões (uma edição na capital paulista e outra em um dos campi no interior) e realiza visitas monitoradas às escolas, faculdades, institutos, museus e órgãos da USP",
+                                    "answer_start": 181,
+                                    "answer_end": 407,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Ajudando a escolher a profissão Para ajudar o estudante na escolha da carreira profissional e se informar sobre como funciona a Universidade, existe o programa USP e as Profissões. A iniciativa organiza duas vezes por ano a Feira USP e as Profissões (uma edição na capital paulista e outra em um dos campi no interior) e realiza visitas monitoradas às escolas, faculdades, institutos, museus e órgãos da USP.",
+                    "document_id": 1726041
+                }
+            ],
+            "title": "USP"
+        },
+        {
+            "paragraphs": [
+              {
+                "qas": [
+                  {
+                    "question": "Quando é oferecida a disciplina “Estágio Supervisionado em Engenharia Mecatrônica” na Escola Politécnica?",
+                    "id": 1188874,
+                    "answers": [
+                      {
+                        "answer_id": 1101178,
+                        "document_id": 1726060,
+                        "question_id": 1188874,
+                        "text": "Essa disciplina é oferecida no quinto ano, mas alunos a partir do terceiro ano podem se matricular",
+                        "answer_start": 134,
+                        "answer_end": 232,
+                        "answer_category": null
+                      }
+                    ],
+                    "is_impossible": false
+                  }                  
+                ],
+                "context": " O estágio supervisionado é exigido de todos os alunos e corresponde à disciplina “Estágio Supervisionado em Engenharia Mecatrônica”. Essa disciplina é oferecida no quinto ano, mas alunos a partir do terceiro ano podem se matricular. A disciplina exige que o aluno realize cerca de 200 horas de estágio em atividades relacionadas diretamente com as atribuições profissionais de um Engenheiro. Caso o aluno esteja realizando algum estágio não relacionado à Engenharia, deverá estar preparado para realizar um estágio adicional quando cursar esta disciplina.",
+                "document_id": 1726060
+              }
+            ]
+          },
+          {
+            "title": "USP",
+            "paragraphs": [
+                {
+                    "qas": [                        
+                        {
+                            "question": "Qual o valor da bolsas de internacionalização na Escola Politécnica?",
+                            "id": 1173893,
+                            "answers": [
+                                {
+                                    "answer_id": 1099104,
+                                    "document_id": 1725953,
+                                    "question_id": 1173893,
+                                    "text": "costumam ser de até 20 mil reais",
+                                    "answer_start": 194,
+                                    "answer_end": 226,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Na Poli, é possível conquistar uma bolsa da AUCANI (Agência USP de Cooperação Acadêmica Nacional e Internacional) ou do banco Santander, com o qual a universidade possui uma parceria. As bolsas costumam ser de até 20 mil reais, o suficiente para cobrir em média um semestre de intercâmbio. De 2001 a 2018, 3082 alunos da Poli foram para o exterior por meio destas modalidades de internacionalização. No mesmo período, a Escola recebeu 1578 intercambistas de pelo menos trinta e cinco países diferentes. A tendência é que esse número continue crescendo durante os próximos anos.",
+                    "document_id": 1725953
+                }
+            ]
+        }
+    ],
+    "version": "1.0"
+}
