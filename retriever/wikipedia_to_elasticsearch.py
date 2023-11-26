@@ -1,9 +1,7 @@
-# from datasets import load_dataset
+from datasets import load_dataset
 
-# wikipedia_pt = load_dataset("graelo/wikipedia", "20230901.pt")
-
-# wikipedia_pt['train'].to_csv('wikipedia-pt.csv')
-
+wikipedia_pt = load_dataset("graelo/wikipedia", "20230901.pt")
+wikipedia_pt['train'].to_csv('wikipedia-pt.csv')
 
 from haystack.document_stores import ElasticsearchDocumentStore
 import nltk
@@ -68,10 +66,3 @@ for chunk in wikipedia_pt:
         progress_bar.update(50)
         i += 1
 progress_bar.close()
-
-
-# documents = document_store.get_all_documents()
-
-# for document in documents:
-#     if document.meta['title'] == 'Astronomia':
-#         print(document.content)

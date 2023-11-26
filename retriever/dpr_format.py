@@ -53,8 +53,8 @@ progress_bar.close()
 with open(train_dir + 'nq-dpr-train.json', 'w', encoding='utf-8') as fout:
     json.dump(nq_dpr, fout, ensure_ascii=False)
 
-
-
+# ====== ESTRUTURA DPR: ======
+# 
 # [
 #     {
 #         "question": "....",
